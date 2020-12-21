@@ -1,0 +1,6 @@
+STUDIEINTYG
+
+Nina Eriksson
+
+Kurs: Fysik, betyg: G
+Kurs: Java, betyg: VG
